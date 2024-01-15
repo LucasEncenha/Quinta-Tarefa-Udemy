@@ -1,0 +1,11 @@
+h3{
+    background-color:aquamarine;
+    padding: 15px;
+    border: 4px solid green;
+}
+
+li{
+    color: greenyellow;
+    padding: 5px;
+    background-color: black;
+}
